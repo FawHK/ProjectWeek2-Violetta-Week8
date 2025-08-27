@@ -2,6 +2,7 @@
 
 ## Custom files
 APIKeys.swift
+GoogleService-Info.plist
 
 ## User settings
 xcuserdata/
